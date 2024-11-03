@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js, MySQL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-sand-21.vercel.app/](https://portfolio-omega-sand-21.vercel.app/)
+- 👨‍💻 All of my projects are available at [uphill-tech.com](https://uphill-tech.com)
 
 - 📝 I regularly write articles on [https://portfolio-omega-sand-21.vercel.app/](https://portfolio-omega-sand-21.vercel.app/)
 
